@@ -21,6 +21,6 @@ polars_stats.py – This script uses Polars, a high-performance DataFrame librar
 2. Place it in the same folder as the scripts.
 3. Run the scripts:
 
-python pure_python_stats.ipynb
-python pandas_stats.ipynb
-python polars_stats.ipynb
+ pure_python_stats.ipynb
+ pandas_stats.ipynb
+ polars_stats.ipynb
